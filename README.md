@@ -4,9 +4,9 @@ It includes three assignments submitted during the Winter 2023 term, each explor
 
 ## Repository Structure
 The repo includes the following files:  
-- **A1_2020468.pdf / Assignment1-PSY306-Winter2023.docx** – Assignment 1  
-- **A2_2020468.pdf / Assignment2-PSY306-Winter2023.docx** – Assignment 2  
-- **A3_2020468.pdf / Assignment3-PSY306-Winter2023.docx** – Assignment 3  
+- A1_2020468 - Assignment 1  
+- A2_2020468 – Assignment 2  
+- A3_2020468.pdf – Assignment 3  
 
 ## Course Context
 The course focussed on:
